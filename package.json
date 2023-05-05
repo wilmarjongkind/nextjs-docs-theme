@@ -1,6 +1,6 @@
 {
   "name": "nextjs-docs-theme",
-  "displayName": "nextjs-docs-theme",
+  "displayName": "Next.js Docs Theme",
   "description": "A theme inspired by the new Next.js 13 docs.",
   "version": "1.0.0",
   "icon": "images/nextjs.png",
