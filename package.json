@@ -4,6 +4,7 @@
   "description": "A theme inspired by the new Next.js 13 docs.",
   "version": "1.0.0",
   "icon": "images/nextjs.png",
+  "publisher": "wilmarj",
   "engines": {
     "vscode": "^1.78.0"
   },
