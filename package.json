@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-docs-theme",
+  "displayName": "nextjs-docs-theme",
+  "description": "A theme inspired by the new Next.js 13 docs.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Next.js Docs Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nextjs-docs-color-theme.json"
+      }
+    ]
+  }
+}
