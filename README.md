@@ -1,16 +1,17 @@
-# nextjs-docs-theme README
+# Next.js Docs Theme
 
-## Working with Markdown
+This theme is based on [Next.js Docs](https://nextjs.org/docs).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![ts]()
 
-## For more information
+![tsx]()
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Typography
 
-**Enjoy!**
+The font I use with this theme is `JetBrainsMono Nerd Font`, which can be downloaded [here](https://github.com/ryanoasis/nerd-fonts/releases).
+
+## Suggestions
+
+See anything you dislike? Feel free to create an issue or a pull request!
