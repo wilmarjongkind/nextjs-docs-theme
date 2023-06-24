@@ -1724,7 +1724,7 @@
     },
     {
       "name": "jsx tags",
-      "scope": "entity.name.tag.jsx,entity.name.tag.tsx",
+      "scope": ["entity.name.tag.jsx","entity.name.tag.tsx", "entity.name.tag.js.jsx support.class.component.js.jsx", "entity.name.tag support.class.component", "source.vue support.class.component"],
       "settings": {
         "foreground": "#5cc2b2"
       }
