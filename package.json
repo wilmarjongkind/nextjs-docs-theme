@@ -2,9 +2,10 @@
   "name": "nextjs-docs-theme",
   "displayName": "Next.js Docs Theme",
   "description": "A theme inspired by the new Next.js 13 docs.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "images/nextjs.png",
   "publisher": "wilmarj",
+  "repository": "https://github.com/wilmarjongkind/nextjs-docs-theme",
   "engines": {
     "vscode": "^1.78.0"
   },
