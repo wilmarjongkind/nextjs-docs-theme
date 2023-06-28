@@ -8,7 +8,7 @@
     },
     "variable.constant": {
       "foreground": "#ededed"
-    },
+    }
   },
   "tokenColors": [
     {
@@ -1691,7 +1691,6 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#a0a0a0"
       }
     },
@@ -1717,38 +1716,32 @@
     },
     {
       "name": "js/ts italic",
-      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super"
     },
     {
       "name": "jsx tags",
-      "scope": ["entity.name.tag.jsx","entity.name.tag.tsx", "entity.name.tag.js.jsx support.class.component.js.jsx", "entity.name.tag support.class.component", "source.vue support.class.component"],
+      "scope": [
+        "entity.name.tag.jsx",
+        "entity.name.tag.tsx",
+        "entity.name.tag.js.jsx support.class.component.js.jsx",
+        "entity.name.tag support.class.component",
+        "source.vue support.class.component"
+      ],
       "settings": {
         "foreground": "#5cc2b2"
       }
     },
     {
       "name": "comment",
-      "scope": "comment.line.double-slash,comment.block.documentation",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "scope": "comment.line.double-slash,comment.block.documentation"
     },
     {
       "name": "Python Keyword Control",
-      "scope": "keyword.control.import.python,keyword.control.flow.python",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "scope": "keyword.control.import.python,keyword.control.flow.python"
     },
     {
       "name": "markup.italic.markdown",
-      "scope": "markup.italic.markdown",
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "scope": "markup.italic.markdown"
     }
   ],
   "colors": {
